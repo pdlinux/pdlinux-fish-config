@@ -1,3 +1,3 @@
-# Garuda-fish-config
+# pdlinux-fish-config
 
-Fish configuration for Garuda Linux featuring a lot of useful aliases & a beautiful prompt
+Fish configuration for PDLinux featuring a lot of useful aliases & a beautiful prompt

@@ -23,10 +23,11 @@ source=("pdlinux-fish-completions-update.service"
         "config.fish"
         "pdlinux-update.fish"
         "https://raw.githubusercontent.com/franciscolourenco/done/master/conf.d/done.fish")
-md5sums=('6ca19deceb370d45d506f9cbf3ddfe19'
-         '9843571133ebda74811fddefec3fbc5f'
-         '5d5b2c4a5dd7591305ad50cd528684b7'
-         'b489bb2c1d0c82fbb4207a7b8d61b17a')
+md5sums=('09c81413ca84fb597ab9cbb8e8825a7d'
+	 'aa62f50d23315b8fbe20a8f0f8cd63cb'
+	 '1882d939bcbd7c06a9c64e817be22d23'
+	 '6ca19deceb370d45d506f9cbf3ddfe19'
+	 '4e2af36f5a7c5bc2a01e1076848abfb5')
 
 package() {
 	cd $srcdir
